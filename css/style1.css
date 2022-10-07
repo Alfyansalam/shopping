@@ -1,0 +1,17 @@
+body{
+    background-image: url('https://tse4.mm.bing.net/th/id/OIP.WbYyHPU-VRh4FRq4iDVWkAHaEo?pid=ImgDet&rs=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+/* .border1{
+    border: 5px dashed black;
+    padding: 10px;
+} */
+td,th,table{
+    border: 1px dashed black;
+    width: auto;
+    margin: 5px;
+    
+}
